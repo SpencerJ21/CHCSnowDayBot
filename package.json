@@ -4,7 +4,7 @@
   "description": "A Discord bot for detecting cancelations of chc, and logging to some discord channel",
   "main": "snowDayBot.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
