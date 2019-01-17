@@ -4,7 +4,7 @@
   "description": "A Discord bot for detecting cancelations of chc, and logging to some discord channel",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "npm update && node app.js",
     "test": "echo \"Error: no test specified\""
   },
   "author": "",
